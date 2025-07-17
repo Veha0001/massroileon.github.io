@@ -7,27 +7,29 @@ layout: doc
 
 ## Ver 6060.rX Latest
 
-Using Latest Version Arcaea
-Support Android & iOS ( User can using both apk & ipa )
+Sử dụng phiên bản mới nhất Arcaea.
+Hỗ trợ Android và iOS (Người dùng có thể sử dụng cả hai phiên bản apk và ipa)
 
-Link Play available and and can play together
-Playable 1xxx+ Fanmade songs
+Link Play hỗ trợ và có thể chơi chung
+Có thể chơi hơn 1xxx+ Fanmade songs
 
-Cost calculated like this
+Giá được tính như sau
 
-- First join: 2$ / 30 days (+ 15000 Aurora Point )
-- Pay: 2$ / 15000 Aurora Token
-  LifeTime (permanent player) will have if get Ultimate User Role
+- Tháng đầu tiên: 50K / 30 ngày (+ 15000 Aurora Point)
+- Mua Aurora Token: 50K / 15000 Aurora Token
+  LifeTime (người chơi vĩnh viễn) nhận được khi lấy được quyền Ultimate User
 
-### Gameplay
+# Cách chơi:
 
-- Aurora Points are equal to the number of Aurora Tokens used.
+- Aurora Point bằng số Aurora Token sử dụng
 
-- There are 5 Roles in total: Member, Pro User, Premium User, Ultra User, Ultimate User.
+- Có tất cả 5 Role: Member, Pro User, Premium User, Ultra User, Ultimate User
 
-- Each Role requires certain conditions for upgrading, which can be found in the Upgrade with commands /shop
+- Mỗi Role cần một số điều kiện để nâng cấp có thể tham khảo qua Upgrade lệnh /shop
 
-- Upon reaching Ultimate User, you will permanently receive LifeTime V2.
+- Khi đạt Ultimate User thì sẽ luôn nhận được LifeTime V2
+
+TP Bank & Momo: Liên hệ
 
 ::: tip Alternatives
 Telegram Links for support (And also the downloads):
