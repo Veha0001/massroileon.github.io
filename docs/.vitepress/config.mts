@@ -82,12 +82,13 @@ export default defineConfig({
     ],
 
     sidebar: [
+      { text: "Project Aurora", link: "/downloads" },
       {
         text: "Games Overview",
         items: [
-          { text: "Aurora", link: "/gm/aurora" },
-          { text: "Cytus", link: "/gm/cytus" },
-          { text: "CytusII", link: "/gm/cytus2" },
+          { text: "Aurora", link: "/games/aurora" },
+          { text: "Cytus", link: "/games/cytus" },
+          { text: "CytusII", link: "/games/cytus2" },
         ],
       },
       { text: "Caution!", link: "caution" },
@@ -131,11 +132,5 @@ export default defineConfig({
   },
   vite: {
     plugins: [groupIconVitePlugin()],
-    ssr: {
-      noExternal: [
-        // If there are other packages that need to be processed by Vite, you can add them here.
-        "@nolebase/vitepress-plugin-highlight-targeted-heading",
-      ],
-    },
   },
 });
