@@ -23,7 +23,8 @@ hero:
 features:
   - title: Muse Dash
     icon: 🎮
-    details: Crack PC Verion 3.9.0
+    details: PC Steam
+    link: https://store.steampowered.com/app/774171/Muse_Dash/
   - title: Tools for Mod
     icon: 🛠️
     details: Get best way to install mod with easy
