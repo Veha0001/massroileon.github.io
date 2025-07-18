@@ -1,8 +1,6 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-isHome: true
-background: "https://github.com/ZephyrAurora/zephyraurora.github.io/blob/main/static/index/cytusii.jpg?raw=true"
 
 hero:
   name: "ZeroX Gravity"
@@ -17,9 +15,9 @@ hero:
       link: https://zephyraurora.github.io/arcaea
     - theme: alt
       text: CytusII
-      link: https://zephyraurora.github.io/cytusii
+      link: /games/cytus2
   image:
-    src: https://zephyraurora.github.io/static/index/hero.png
+    src: /7codehero.jpg
     alt: ZeroX
 
 features:
@@ -32,4 +30,5 @@ features:
   - title: Project Aurora
     icon: 🈯
     details: Project ZP.Aurora Server
+    link: /downloads
 ---

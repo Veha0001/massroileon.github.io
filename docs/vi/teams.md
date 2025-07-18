@@ -21,13 +21,14 @@ const members = [
     name: 'Team Aurora',
     title: 'Owner',
     links: [
-      { icon: 'github', link: 'https://github.com/ZephyrAurora' }
+      { icon: 'github', link: 'https://github.com/ZephyrAurora' },
+      { icon: 'youtube', link: 'https://youtube.com/@moddedarcaea?si=UYubpf4G1efeOLNV' }
     ]
   },
   {
     avatar: 'https://github.com/Veha0001.png',
     name: 'Veha',
-    title: 'Remake this web in VitePress',
+    title: 'using VitePress',
     links: [
       { icon: 'github', link: 'https://github.com/Veha0001' }
     ]
@@ -38,6 +39,9 @@ const mention = [
     avatar: 'https://yt3.googleusercontent.com/LQonFOthYiWyFpDR-qdSekhPd7y4q1fOcAH1MYTW2bagvBr3m-Vqjb5rbBAMobyG0cuHB3NCvg=s160-c-k-c0x00ffffff-no-rj',
     name: 'Ellie',
     title: 'Tester',
+    links: [
+      { icon: 'youtube', link: 'https://youtube.com/@a._Ellie?si=1zMBLAECfKKuoMXe' }
+    ]
   },
 
 ]

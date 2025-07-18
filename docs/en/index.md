@@ -15,7 +15,7 @@ hero:
       link: https://zephyraurora.github.io/arcaea
     - theme: alt
       text: CytusII
-      link: /gm/cytus2
+      link: /games/cytus2
   image:
     src: /7codehero.jpg
     alt: ZeroX
