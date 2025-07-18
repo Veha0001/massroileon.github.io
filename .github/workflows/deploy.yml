@@ -37,6 +37,11 @@ jobs:
         with:
           node-version: 22
           cache: npm
+      - name: Set base path
+        if: ${{ github.repository != 'massroileon/massroileon.github.io' }}
+        run: |
+          REPO_NAME="${GITHUB_REPOSITORY#*/}"
+          sed -i "s|base: '/'|base: '/$REPO_NAME/'|" docs/.vitepress/config.mts
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
