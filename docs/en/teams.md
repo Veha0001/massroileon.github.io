@@ -14,7 +14,8 @@ const members = [
     title: 'Web Creator',
     links: [
       { icon: 'github', link: 'https://github.com/MassroiLeon' }
-    ]
+    ],
+    sponsor: 'https://ganknow.com/massroileon/tip',
   },
   {
     avatar: 'https://github.com/ZephyrAurora.png',
@@ -30,7 +31,8 @@ const members = [
     name: 'Veha',
     title: 'using VitePress',
     links: [
-      { icon: 'github', link: 'https://github.com/Veha0001' }
+      { icon: 'github', link: 'https://github.com/Veha0001' },
+      { icon: 'kofi', link: 'https://ko-fi.com/Veha0001' },
     ]
   },
 ]

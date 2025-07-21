@@ -1,6 +1,7 @@
 ---
-title: ZP.Aurora
+title: Project Aurora
 layout: doc
+pageClass: aurora
 ---
 
 # Project ZP.Aurora Server

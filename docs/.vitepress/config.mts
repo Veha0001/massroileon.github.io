@@ -82,7 +82,7 @@ export default defineConfig({
     ],
 
     sidebar: [
-      { text: "Project Aurora", link: "/downloads" },
+      { text: "Project Aurora", link: "/projectaurora" },
       {
         text: "Games Overview",
         items: [

@@ -9,13 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Downloads
-      link: /downloads
+      link: /projectaurora
     - theme: alt
-      text: ArcaeaDX
-      link: https://zephyraurora.github.io/arcaea
-    - theme: alt
-      text: CytusII
-      link: /games/cytus2
+      text: Arcaea
+      link: /games/aurora
   image:
     src: /7codehero.jpg
     alt: ZeroX
@@ -23,8 +20,8 @@ hero:
 features:
   - title: Muse Dash
     icon: 🎮
-    details: PC Steam
-    link: https://store.steampowered.com/app/774171/Muse_Dash/
+    details: on PC (Steam), console, mobile
+    link: https://youtu.be/K_3LiLv8ya4?si=7GIJxkBykQkBpZjo
   - title: Tools for Mod
     icon: 🛠️
     details: Get best way to install mod with easy
