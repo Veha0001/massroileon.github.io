@@ -1,11 +1,11 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-sidebar: true
 pageClass: aurora
 
 hero:
   name: Aurora
+  text: Mods
   tagline: Made by team aurora.
   image:
     src: /x-aiart_pam-miku.webp
@@ -14,6 +14,7 @@ hero:
     - theme: brand
       text: Get Aurora
       link: /projectaurora
+
 features:
   - icon: 🔮
     title: ArcaeaDX

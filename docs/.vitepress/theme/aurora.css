@@ -5,8 +5,11 @@
   background-color: #000 !important;
 }
 
-.aurora .VPDoc * {
+.aurora .VPDoc div {
   color: #fff;
+}
+.aurora .VPDoc .aside-curtain {
+  background: transparent;
 }
 
 .aurora .VPDoc::before {
@@ -21,7 +24,35 @@
   opacity: 0.8;
   z-index: -1;
 }
+.aurora .is-home {
+  position: relative;
+  z-index: 0;
+  overflow: hidden;
+  background-color: #000 !important;
+}
 
+.aurora .is-home::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url("/lowbgneon.webp") no-repeat bottom / cover;
+  filter: blur(15px);
+  opacity: 0.8;
+  z-index: -1;
+}
+
+a:link {
+  text-decoration: none;
+}
+.aurora .content-body {
+  color: #ffffff80;
+}
+.aurora .tagline {
+  color: rgba(255, 255, 255, 0.5);
+}
 .aurora {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(120deg,
@@ -34,6 +65,4 @@
 
 .VPHero img {
   border-radius: 30px;
-  height: auto;
-  width: 80%;
 }

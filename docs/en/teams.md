@@ -9,7 +9,7 @@ import {  VPTeamPage, VPTeamPageTitle, VPTeamMembers, VPTeamPageSection } from '
 
 const members = [
   {
-    avatar: 'https://github.com/MassroiLeon.png',
+    avatar: 'https://avatars.githubusercontent.com/u/149990805?v=4',
     name: 'MassroiLeon',
     title: 'Web Creator',
     links: [
@@ -18,7 +18,7 @@ const members = [
     sponsor: 'https://ganknow.com/massroileon/tip',
   },
   {
-    avatar: 'https://github.com/ZephyrAurora.png',
+    avatar: 'https://avatars.githubusercontent.com/u/61457128?v=4',
     name: 'Team Aurora',
     title: 'Owner',
     links: [
@@ -27,7 +27,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://github.com/Veha0001.png',
+    avatar: 'https://avatars.githubusercontent.com/u/84841152?v=4',
     name: 'Veha',
     title: 'using VitePress',
     links: [
